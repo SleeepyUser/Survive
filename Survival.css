@@ -1,0 +1,29 @@
+body{
+    position: absolute;
+    width: 99%;
+    height: 99%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#MainFrame{
+    width: 600px;
+    height: 525px;
+    background-color: rgba(44, 82, 139, 0.664);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#UsernameInput{
+    font-size: 15px;
+    width: 130px;
+    text-align: center;
+}
+
+#PlayButton{
+    position: absolute;
+    top: 55%;
+    width: 80px;
+}
